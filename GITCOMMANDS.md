@@ -72,5 +72,6 @@ Para crear una nueva rama y moverse directamente a ella:
 
     git checkout -b <nombre_de_la_rama>
 
-cambios
-otros cambios de main
+Para borrar una rama localmente:
+
+    git checkout -d <nombre_de_la_rama>
